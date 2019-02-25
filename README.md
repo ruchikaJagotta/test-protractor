@@ -1,4 +1,4 @@
-# test-cafe-protractor
+# test-protractor
 This reporsitory is for testing angular based application with protractor.
 Protractor Page object pattern is used to write test suites. 
 
