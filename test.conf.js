@@ -3,7 +3,7 @@
 // https://www.npmjs.com/package/protractor-jasmine2-screenshot-reporter
 // http://www.protractortest.org/#/async-await
 
-let env = require('./environment.js');
+var env = require('./environment.js');
 var jasmine2htmlreporter = require('protractor-jasmine2-html-reporter');
 
 exports.config = {
