@@ -1,5 +1,4 @@
 // reference from http://www.protractortest.org/#/page-objects
-var env = require('./employeeListPage.js');
 var env = require('./../environment.js');
 var userData = require('./../userdata.js');
 
